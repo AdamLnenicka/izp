@@ -1,17 +1,5 @@
-**Table of Contents:**
-1. [Introduction](#introduction)
-2. [Project Overview](#project-overview)
-3. [Command Syntax](#command-syntax)
-4. [Command Reference](#command-reference)
-    - [Selection Modification Commands](#selection-modification-commands)
-    - [Table Structure Modification Commands](#table-structure-modification-commands)
-    - [Cell Content Modification Commands](#cell-content-modification-commands)
-    - [Temporary Variable Commands](#temporary-variable-commands)
-
-### Introduction <a name="introduction"></a>
-This project aims to provide a command-line tool for manipulating tables and cells within them. The tool allows users to perform various operations such as modifying table structure, setting cell content, calculating sums and averages, and working with temporary variables.
-
 ### Project Overview <a name="project-overview"></a>
+This project aims to provide a command-line tool for manipulating tables and cells within them. The tool allows users to perform various operations such as modifying table structure, setting cell content, calculating sums and averages, and working with temporary variables.
 The project consists of a command-line tool called `sps`, which stands for "Spreadsheet Processor." It operates on text files representing tables and executes commands specified by the user to manipulate the table structure and content.
 
 ### Command Syntax <a name="command-syntax"></a>
